@@ -1,0 +1,6 @@
+# Virtual env
+env/
+
+# Models
+model.keras
+sine_model.*
