@@ -1,0 +1,4 @@
+# For only ploting data
+
+numpy==1.24.3
+matplotlib==3.7.1
