@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use this, please cite it as below."
 authors:
 - family-names: "Barreto da Silva"
   given-names: "Maurício Taffarel"
@@ -9,3 +9,5 @@ version: 1.0.0
 doi: 10.5281/zenodo.10440472
 date-released: 2023-12-15
 url: "https://raw.githubusercontent.com/taffarel55/graduation-thesis/2906dcc6d211edaa8e116699f1a0a6c7b6e70c84/Trabalho_de_Conclus%C3%A3o_de_Curso_FINAL_assinado.pdf"
+preferred-citation:
+  type: article
